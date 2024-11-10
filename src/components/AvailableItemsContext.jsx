@@ -9,6 +9,8 @@ export const AvailableItemsProvider = ({ children }) => {
     return storedItems ? JSON.parse(storedItems) : [];
   });
 
+
+  //  Function to the item in the list
   const addItem = (item) => {
     setAvailableItems((prevItems) => [...prevItems, item]);
   };
