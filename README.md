@@ -1,4 +1,4 @@
-# Available Items Management App
+# Recipe Suggestion App
 
 This application is designed for easy item management, enabling users to add items, remove items, and search through them. It allows you to search through the list of available items with your chosen keywords or add items to create a custom search list.
 
